@@ -37,7 +37,7 @@ const Footer = () => {
           Copyright © 2024 Hassan Ramadan
         </p>
 
-        <div className="flex items-center md:gap-3 gap-6">
+        <div className="flex items-center md:gap-3 gap-6 mt-8 md:mt-0">
           {socialMedia.map((info) => (
             <div
               key={info.id}
