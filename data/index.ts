@@ -106,9 +106,9 @@ export const projects = [
     id: 5,
     title: "Node.js Ecommerce API",
     des: "Created an Eccommerce Api and deployed it on render for free ",
-    img: "/nodejs.JPG",
+    img: "/nodeImage.png",
     iconLists: ["nodejs.svg"],
-    link: "https://github.com/hassanramadan74/eccomerce-nodeJs",
+    link: "https://github.com/hassanramadan74/eccomerce-nodeJs/",
   },
 ];
 
