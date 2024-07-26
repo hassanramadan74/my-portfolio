@@ -100,7 +100,7 @@ export const projects = [
     des: "Recreated the youtube website, combining React and Material UI..",
     img: "/p4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg"],
-    link: "/https://youtube-clone-pi-sooty-62.vercel.app/",
+    link: "https://youtube-clone-pi-sooty-62.vercel.app/",
   },
   {
     id: 5,
